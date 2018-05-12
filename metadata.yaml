@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31639
     wikipedia: http://en.wikipedia.org/wiki/Ben_Ames_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36881#The-Sea-Bride
 gutenberg_issued: '2011-07-28'
 gutenberg_type: Text
 identifiers:
